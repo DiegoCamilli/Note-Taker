@@ -1,5 +1,4 @@
 # Note Taker
-  ![License](https://img.shields.io/badge/license-No License-blue)
   ## Description
   This is an application to allow the user to take quick and easy notes as the day goes on. The app uses node and express to manage the api CRUD calls and local storage to allow the user to continue to add and remove notes without the fear of loosing them.
 ![appshowing](./public/Assets/Images/NoteTaker.png)
